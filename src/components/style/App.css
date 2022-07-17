@@ -4,6 +4,7 @@
     padding: 0;
     box-sizing: border-box;
   }
+
   .main {
     display: flex;
     font-size: 12px;
@@ -15,7 +16,7 @@
     padding: 4px;
     background-color: rgb(65, 151, 221);
   }
-  
+
   @media screen and (min-width: 960px) {
     .main {
       padding: 4px;
@@ -30,7 +31,7 @@
     width: 100%;
     max-width: 1440px;
   }
-  
+
   @media screen and (min-width: 960px) {
     .sub-main {
       flex-direction: row;

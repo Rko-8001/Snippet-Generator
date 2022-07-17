@@ -12,7 +12,6 @@ function App() {
   })
   function saveInputCode(inputCode) {
     inputUpdate(inputCode);
-    // console.log(input);
   }
   return (
     <>
